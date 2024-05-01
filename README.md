@@ -18,9 +18,9 @@
 
 
 
-<img src="README/image-20220905105446111.png" alt="image-20220905105446111" style="zoom:80%;" />
+<img src="README/image-20220905105446111.jpg" alt="image-20220905105446111" style="zoom:80%;" />
 
-![image-20220905105500879](https://github.com/free-tiu/To_do_List/blob/main/README/image-20220905105500879.png)
+![image-20220905105500879](https://github.com/free-tiu/To_do_List/blob/main/README/image-20220905105500879.jpg)
 
 
 
